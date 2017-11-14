@@ -17,6 +17,4 @@ function destructivelyRemoveFirstDriver(name){
   drivers.shift("Ralph");
 }
 
-const allDrivers = ["Milo", "Otis", "Garfield" "Broom"];
-
 
